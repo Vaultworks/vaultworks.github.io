@@ -1,16 +1,17 @@
-Our Privacy Policy was last updated on 26/09/2022.
-Dash! Ball uses following services for serving you ads and provide you a better experience:
--	Unity Ads (Privacy Policy: https://unity.com/legal/privacy-policy)
--	AdMob by Google (https://policies.google.com/privacy)
--	Vungle (https://vungle.com/privacy)
--	AdColony (https://www.adcolony.com/privacy-policy)
--	AppLovin (https://www.applovin.com/privacy)
--	Firebase Analytics (https://firebase.google.com/support/privacy)
--	ironSource Ad Network (https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy)
-Since we use these services, they may collect your data if you allow it in your Dash! Ball application settings (iOS & Android).
-For Firebase Analytics we don’t collect any personal information and ID, all data is anonymous. 
-These Firebase Analytics data is used for better experience and don’t have any information about user’s personal identity. 
-All Firebase Analytics data is optional, and you may opt out from your Dash! Ball application settings from phone settings. You may also try Dash! Ball offline.
+Our Privacy Policy was last updated on 28/09/2022.
+Dash! Ball uses the following services for serving you ads and provides you with a better experience:
+* Unity Ads (Privacy Policy: https://unity.com/legal/privacy-policy)
+*	AdMob by Google (https://policies.google.com/privacy)
+*	Vungle (https://vungle.com/privacy)
+*	AdColony (https://www.adcolony.com/privacy-policy)
+*	AppLovin (https://www.applovin.com/privacy)
+*	Firebase Analytics (https://firebase.google.com/support/privacy)
+*	ironSource Ad Network (https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy)
+* Facebook (https://www.facebook.com/about/privacy)
+Since we use these services, they may collect your data (IDFA for iOS & GAID for Android devices) and if you allow it in your Dash! Ball application settings (iOS & Android).
+For Firebase Analytics & Facebook, Dash! Ball doesn't collect any personal information and ID, all data is anonymous at our end.
+These Firebase Analytics data are used for a better experience and don’t have any information about the user’s identity. 
+All Firebase Analytics data is optional, and you may opt-out from your Dash! Ball application settings from phone settings. You may also try Dash! Ball offline.
 Other than these services we don’t use any services that collect your information.
-We do not sell, rent or trade any of your personal data.
-Further information you can e-mail us from support@vaultworks.studio anytime!
+We do not sell, rent or trade any of your data.
+For further information & to submit all your right claims, you can e-mail us from support@vaultworks.studio anytime! Your requests will be answered as soon as possible and within thirty days at the latest.
