@@ -1,14 +1,14 @@
-Our Privacy Policy was last updated on 28/09/2022.
+Our Privacy Policy was last updated on 30/09/2022.
 Dash! Ball uses the following services for serving you ads and provides you with a better experience:
-* Unity Ads (Privacy Policy: https://unity.com/legal/privacy-policy)
-*	AdMob by Google (https://policies.google.com/privacy)
-*	Vungle (https://vungle.com/privacy)
-*	AdColony (https://www.adcolony.com/privacy-policy)
-*	AppLovin (https://www.applovin.com/privacy)
-*	Firebase Analytics (https://firebase.google.com/support/privacy)
-*	ironSource Ad Network (https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy)
+* Unity Ads (https://unity.com/legal/privacy-policy)
+* AdMob by Google (https://policies.google.com/privacy)
+* Vungle (https://vungle.com/privacy)
+* AdColony (https://www.adcolony.com/privacy-policy)
+* AppLovin (https://www.applovin.com/privacy)
+* Firebase Analytics (https://firebase.google.com/support/privacy)
+* ironSource Ad Network (https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy)
 * Facebook (https://www.facebook.com/about/privacy)
-Since we use these services, they may collect your data (IDFA for iOS & GAID for Android devices) and if you allow it in your Dash! Ball application settings (iOS & Android).
+Since we use these services, they may collect your data (IDFA for iOS & GAID for Android devices) if you allow it in your Dash! Ball application settings (iOS & Android).
 For Firebase Analytics & Facebook, Dash! Ball doesn't collect any personal information and ID, all data is anonymous at our end.
 These Firebase Analytics data are used for a better experience and don’t have any information about the user’s identity. 
 All Firebase Analytics data is optional, and you may opt-out from your Dash! Ball application settings from phone settings. You may also try Dash! Ball offline.
