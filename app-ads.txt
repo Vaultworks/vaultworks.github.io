@@ -1,4 +1,10 @@
+#Facebook
 facebook.com, 3360895540902485, RESELLER, c3e20eee3f780d68
+
+#AdMob
+google.com, pub-2510738530621976, DIRECT, f08c47fec0942fa0
+
+#UnityMediation
 mintegral.com, 10038, RESELLER
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
