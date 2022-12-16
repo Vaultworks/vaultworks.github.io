@@ -1,5 +1,6 @@
 #Facebook
 facebook.com, 1171255010146330, RESELLER, c3e20eee3f780d68
+facebook.com, 1340862636744896, RESELLER, c3e20eee3f780d68
 
 #AdMob
 google.com, pub-2510738530621976, DIRECT, f08c47fec0942fa0
